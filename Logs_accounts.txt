@@ -1,8 +1,8 @@
 {
     "Appendms@hotmail.com": {
-        "Last check": "2023-06-07",
-        "Today's points": 300,
-        "Points": 800
+        "Last check": "2023-06-08",
+        "Today's points": 485,
+        "Points": 1285
     },
-    "Elapsed time": "00:09:55"
+    "Elapsed time": "00:19:45"
 }
